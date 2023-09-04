@@ -1,0 +1,21 @@
+.header {
+    position: sticky;
+    top:0;
+}
+
+.remark{
+    color:blue !important;
+}
+
+.remark-header{
+    color:red !important;
+}
+
+.btn-ajust{
+    margin-top: 1.5rem;
+}
+
+.phone-ajust{
+    max-width: 200px;
+    overflow-x: auto;
+}
